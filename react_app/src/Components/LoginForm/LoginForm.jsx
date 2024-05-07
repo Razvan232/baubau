@@ -81,7 +81,7 @@ export const  LoginForm = () => {
                     <div className="register-link">
                         <p>
                             Don't have an account?  
-                            <a href=""> 
+                            <a href="./RegisterForm"> 
                                 Sign up here
                             </a>
                         </p>

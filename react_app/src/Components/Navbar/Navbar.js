@@ -7,9 +7,9 @@ export function NavbarPrimary() {
     <>
       <Navbar bg="primary" data-bs-theme="dark" style={{height:'60px'}}>
         <Container>
-          <Navbar.Brand href="./Homepage">NumeFirma</Navbar.Brand>
+          <Navbar.Brand href="/">NumeFirma</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link href="./Homepage">Home</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="./LoginForm">Login</Nav.Link>
             <Nav.Link href="./RegisterForm">Register</Nav.Link>
           </Nav>

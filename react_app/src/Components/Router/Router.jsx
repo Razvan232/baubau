@@ -23,7 +23,7 @@ const routes = [
                 </>
     },
     {
-        path:"/SignupFormnp",
+        path:"/RegisterForm",
         element: <>
                 <SignupForm/>
                 </>
